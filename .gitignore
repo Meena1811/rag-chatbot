@@ -1,0 +1,11 @@
+.env
+venv/
+__pycache__/
+*.pyc
+chroma_db/
+chroma_db_rbac/
+chroma_db_guardrails/
+chroma_db_streamlit/
+.DS_Store
+*.egg-info/
+.streamlit/
